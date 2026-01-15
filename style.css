@@ -187,7 +187,6 @@ body {
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(72, 155, 103, 0.3);
 }
-
 .hero-section::after {
     content: "";
     position: absolute;
@@ -360,7 +359,6 @@ body {
     line-height: 1.5;
     font-weight: 400;
 }
-
 .solution-section {
     padding: 80px 0;
     background-color: white;
@@ -444,7 +442,6 @@ body {
 .features-list span {
     line-height: 1.5;
 }
-
 .cta-section {
     padding: 80px 0;
     background-color: #f9f9f7;
@@ -596,7 +593,6 @@ body {
     color: rgba(255, 255, 255, 0.5);
     font-weight: 400;
 }
-
 @media screen and (max-width: 1024px) {
     .container {
         width: 95%;
